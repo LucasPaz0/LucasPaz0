@@ -15,3 +15,4 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-paz-a95643262/)
 <a href = "mailto:cmp.1a.lucaspaz97803125@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer"/>
