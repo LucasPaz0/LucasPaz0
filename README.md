@@ -8,7 +8,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasPaz0&bg_color=0d1117&color=11c5a1&line=2e8b57&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas_paz0/)
