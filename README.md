@@ -1,17 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header"/>
+## Hi, I'm Lucas 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E8B57&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Paz;I'm+18+years+old;I'm+from+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
+Developer from Brazil with a degree in **Systems Analysis and Development**. I like turning ideas into things people can actually use: games, tools and websites that run right in the browser or on your phone.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api? />
-</div>
+### 🚀 Featured projects
 
+| Project | What it is | Link |
+| --- | --- | --- |
+| [**Dominátro**](https://github.com/LucasPaz0/dominatro) | Domino roguelike inspired by Balatro, installable as an app (PWA) | [Play](https://dominatro.vercel.app) |
+| [**Sushi's Poker**](https://github.com/LucasPaz0/sushis-poker) | Blind timer and tournament manager for poker nights (PWA) | [Open](https://sushis-poker.vercel.app) |
+| [**Ajuste Lingerie**](https://github.com/LucasPaz0/ajuste-lingerie) | Catalog landing page for a real lingerie store | [Visit](https://ajustelingerie.com.br) |
+| [**Stock Market Streamlit**](https://github.com/LucasPaz0/Stock-Market-Dataset-Streamlit) | Stock market data analysis with Python and Streamlit | [Code](https://github.com/LucasPaz0/Stock-Market-Dataset-Streamlit) |
 
+### 🛠️ Tech stack
 
+[![Tech stack](https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,c,flutter,docker,git,vercel&perline=11)](https://skillicons.dev)
 
+### 📫 Get in touch
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas_paz0/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-paz-a95643262/)
-<a href = "mailto:cmp.1a.lucaspaz97803125@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-paz-a95643262/)
