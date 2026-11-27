@@ -6,7 +6,7 @@ Developer from Brazil with a degree in **Systems Analysis and Development**. I l
 
 | Project | What it is | Link |
 | --- | --- | --- |
-| [**Dominátro**](https://github.com/LucasPaz0/dominatro) | Domino roguelike inspired by Balatro, installable as an app (PWA) | [Play](https://dominatro.vercel.app) |
+| **Dominátro** | Domino roguelike inspired by Balatro, installable as an app (PWA) | [Play](https://dominatro.vercel.app) |
 | [**Sushi's Poker**](https://github.com/LucasPaz0/sushis-poker) | Blind timer and tournament manager for poker nights (PWA) | [Open](https://sushis-poker.vercel.app) |
 | **Ajuste Lingerie** | Catalog landing page for a real lingerie store | [Visit](https://ajustelingerie.com.br) |
 
